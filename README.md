@@ -1,4 +1,4 @@
-# Opensearch Nori plugin Example
+# Opensearch Example
 
 ## Pre-requisites
 
